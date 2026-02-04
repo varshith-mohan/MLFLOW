@@ -35,7 +35,13 @@ mlflow ui
 ~~~ 
 By default, the UI is accessible at http://localhost:5000.
 
+<br>
 
+In case of any error run below command and then rerun mlfow ui 
+~~~
+pip install "jinja2<3.1" "flask<3.0"
+~~~
+Now you can see the browser running and accessible at http://localhost:5000
 
 -----------------------------
 # Key Components of MLFlow
