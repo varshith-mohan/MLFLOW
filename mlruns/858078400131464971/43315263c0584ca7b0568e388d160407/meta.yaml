@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/43315263c0584ca7b0568e388d160407/artifacts
+end_time: 1770834247387
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 43315263c0584ca7b0568e388d160407
+run_name: worried-flea-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247376
+status: 3
+tags: []
+user_id: varshithmohangadupu

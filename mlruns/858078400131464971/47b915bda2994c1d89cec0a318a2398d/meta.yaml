@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/47b915bda2994c1d89cec0a318a2398d/artifacts
+end_time: 1770834247493
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 47b915bda2994c1d89cec0a318a2398d
+run_name: intelligent-croc-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247476
+status: 3
+tags: []
+user_id: varshithmohangadupu

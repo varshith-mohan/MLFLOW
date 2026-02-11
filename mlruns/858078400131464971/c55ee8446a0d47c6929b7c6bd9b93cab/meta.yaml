@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/c55ee8446a0d47c6929b7c6bd9b93cab/artifacts
+end_time: 1770834247526
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: c55ee8446a0d47c6929b7c6bd9b93cab
+run_name: silent-kit-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247516
+status: 3
+tags: []
+user_id: varshithmohangadupu

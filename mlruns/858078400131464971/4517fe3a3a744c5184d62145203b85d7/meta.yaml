@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/4517fe3a3a744c5184d62145203b85d7/artifacts
+end_time: 1770834247551
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 4517fe3a3a744c5184d62145203b85d7
+run_name: glamorous-quail-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247539
+status: 3
+tags: []
+user_id: varshithmohangadupu

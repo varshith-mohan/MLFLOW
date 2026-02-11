@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/ba1b9eb1f6404742b4eec5593a253947/artifacts
+end_time: 1770834247441
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: ba1b9eb1f6404742b4eec5593a253947
+run_name: rogue-penguin-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247432
+status: 3
+tags: []
+user_id: varshithmohangadupu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/c24d15500da44fb4b9b91b9d95add3d7/artifacts
+end_time: 1770834247504
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: c24d15500da44fb4b9b91b9d95add3d7
+run_name: awesome-donkey-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247494
+status: 3
+tags: []
+user_id: varshithmohangadupu

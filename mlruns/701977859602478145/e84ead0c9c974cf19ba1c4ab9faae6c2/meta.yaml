@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/701977859602478145/e84ead0c9c974cf19ba1c4ab9faae6c2/artifacts
+end_time: 1770821421121
+entry_point_name: ''
+experiment_id: '701977859602478145'
+lifecycle_stage: active
+run_id: e84ead0c9c974cf19ba1c4ab9faae6c2
+run_name: magnificent-mule-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770821421111
+status: 4
+tags: []
+user_id: varshithmohangadupu

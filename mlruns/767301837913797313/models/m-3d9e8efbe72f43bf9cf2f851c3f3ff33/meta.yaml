@@ -1,0 +1,10 @@
+artifact_location: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/767301837913797313/models/m-3d9e8efbe72f43bf9cf2f851c3f3ff33/artifacts
+creation_timestamp: 1770816298537
+experiment_id: '767301837913797313'
+last_updated_timestamp: 1770816301797
+model_id: m-3d9e8efbe72f43bf9cf2f851c3f3ff33
+model_type: null
+name: Random-Forest-Model
+source_run_id: e0a8d9bd073745fd83fa6c9f359470f0
+status: 2
+status_message: null

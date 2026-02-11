@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/664ad98616704f5887a9254491058791/artifacts
+end_time: 1770834247452
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 664ad98616704f5887a9254491058791
+run_name: redolent-goat-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247442
+status: 3
+tags: []
+user_id: varshithmohangadupu

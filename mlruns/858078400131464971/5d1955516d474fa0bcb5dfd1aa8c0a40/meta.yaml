@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/5d1955516d474fa0bcb5dfd1aa8c0a40/artifacts
+end_time: 1770834250924
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 5d1955516d474fa0bcb5dfd1aa8c0a40
+run_name: funny-wasp-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834242002
+status: 3
+tags: []
+user_id: varshithmohangadupu

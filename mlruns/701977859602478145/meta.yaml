@@ -1,0 +1,6 @@
+artifact_location: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/701977859602478145
+creation_time: 1770821420169
+experiment_id: '701977859602478145'
+last_update_time: 1770821420169
+lifecycle_stage: active
+name: MLOPS-exp-3-mlflow-autologging

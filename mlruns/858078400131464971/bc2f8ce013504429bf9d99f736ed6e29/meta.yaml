@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/bc2f8ce013504429bf9d99f736ed6e29/artifacts
+end_time: 1770834247431
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: bc2f8ce013504429bf9d99f736ed6e29
+run_name: glamorous-crow-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247421
+status: 3
+tags: []
+user_id: varshithmohangadupu

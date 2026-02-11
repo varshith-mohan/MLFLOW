@@ -1,0 +1,10 @@
+artifact_location: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/701977859602478145/models/m-89355ea8864d489c8e85d924ab0a9b82/artifacts
+creation_timestamp: 1770821446597
+experiment_id: '701977859602478145'
+last_updated_timestamp: 1770821449744
+model_id: m-89355ea8864d489c8e85d924ab0a9b82
+model_type: null
+name: model
+source_run_id: 10075a0f255a4c79b163b835449c005a
+status: 2
+status_message: null

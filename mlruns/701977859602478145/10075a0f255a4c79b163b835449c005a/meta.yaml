@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/701977859602478145/10075a0f255a4c79b163b835449c005a/artifacts
+end_time: 1770821450950
+entry_point_name: ''
+experiment_id: '701977859602478145'
+lifecycle_stage: active
+run_id: 10075a0f255a4c79b163b835449c005a
+run_name: wise-robin-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770821446560
+status: 3
+tags: []
+user_id: varshithmohangadupu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/4238eed09b644dc4a0bbfd3306a239a8/artifacts
+end_time: 1770834247398
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 4238eed09b644dc4a0bbfd3306a239a8
+run_name: indecisive-cub-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247389
+status: 3
+tags: []
+user_id: varshithmohangadupu

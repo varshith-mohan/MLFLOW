@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/767301837913797313/3e0ad1979787480bb3d4891f440f95aa/artifacts
+end_time: 1770793266965
+entry_point_name: ''
+experiment_id: '767301837913797313'
+lifecycle_stage: active
+run_id: 3e0ad1979787480bb3d4891f440f95aa
+run_name: auspicious-shoat-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770793261436
+status: 3
+tags: []
+user_id: varshithmohangadupu

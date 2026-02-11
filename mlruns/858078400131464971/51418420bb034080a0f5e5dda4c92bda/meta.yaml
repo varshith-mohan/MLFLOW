@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/858078400131464971/51418420bb034080a0f5e5dda4c92bda/artifacts
+end_time: 1770834247409
+entry_point_name: ''
+experiment_id: '858078400131464971'
+lifecycle_stage: active
+run_id: 51418420bb034080a0f5e5dda4c92bda
+run_name: thoughtful-loon-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770834247399
+status: 3
+tags: []
+user_id: varshithmohangadupu

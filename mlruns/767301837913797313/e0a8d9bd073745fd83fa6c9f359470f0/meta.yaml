@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/varshithmohangadupu/Downloads/MLFLOW/mlruns/767301837913797313/e0a8d9bd073745fd83fa6c9f359470f0/artifacts
+end_time: 1770816301799
+entry_point_name: ''
+experiment_id: '767301837913797313'
+lifecycle_stage: active
+run_id: e0a8d9bd073745fd83fa6c9f359470f0
+run_name: funny-quail-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770816297405
+status: 3
+tags: []
+user_id: varshithmohangadupu
